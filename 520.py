@@ -1,7 +1,7 @@
 '''
 LeetCode problem 520.
 Detect capital
-Use detect method, isupper() only once.
+Use detect method, isupper(), only once.
 '''
 class Solution:
     def detectCapitalUse(self, word: str) -> bool:
